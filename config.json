@@ -1,0 +1,5 @@
+{
+    "model_path": "models/gbm_model.pkl",
+    "model_framework": "sklearn",
+    "model_name": "gbm_test"
+}
